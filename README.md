@@ -1,6 +1,6 @@
-![ObjectARX2019](https://img.shields.io/badge/ObjectARX-2021-brightgreen.svg)
+![ObjectARX2021](https://img.shields.io/badge/ObjectARX-2021-brightgreen.svg)
 ![BuildPassing](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![AutoCAD2019](https://img.shields.io/badge/AutoCAD-2021-blue.svg)
+![AutoCAD2021](https://img.shields.io/badge/AutoCAD-2021-blue.svg)
 
 # Using Entitlement API from AutoCAD
 
@@ -60,6 +60,17 @@ To test scenario, I used two App Ids :
 Working Gif Demo
 
 ![CheckEntitlement](https://github.com/MadhukarMoogala/EntitlementAPIForACAD/blob/master/CheckEntitlement.gif)
+
+### License
+
+This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT). Please see the [LICENSE](https://github.com/MadhukarMoogala/EntitlementAPIForACAD/blob/master/LICENSE) file for full details.
+
+### Written by
+
+Madhukar Moogala, [Forge Developer Advocate](http://forge.autodesk.com/)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/galakar.svg?style=social&label=Follow%20%40galakar)](https://twitter.com/galakar)
+
+
 
 
 
